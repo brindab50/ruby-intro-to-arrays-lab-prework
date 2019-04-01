@@ -23,4 +23,6 @@ def last_element(array)
 end 
 
 def last_element_with_array(array)
+  arrray.pop
   
+end
